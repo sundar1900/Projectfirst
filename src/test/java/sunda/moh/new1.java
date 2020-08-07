@@ -6,8 +6,8 @@ public class new1 {
 	
     @Test
 	private void aad() {
-		// TODO Auto-generated method stub
 
+    	System.out.println("done");
 	}
 
 }
